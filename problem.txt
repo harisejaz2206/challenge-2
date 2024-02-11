@@ -1,0 +1,25 @@
+## Objective
+
+Create a basic HTTP server using Node.js that handles web requests.
+
+## Tasks
+
+1. Server Setup: Set up an HTTP server on a specified port.
+2. Routing: Implement at least two routes: / (root) and /about.
+- Root: Display a welcome message.
+- About: Display project or creator info.
+1. Error Handling: Handle non-existing routes with a 404 status code.
+2. Logging: Log the request method and URL for each request.
+
+## Submission Guidelines
+
+- Submit source code as a zip file or GitHub repository link.
+- Include a README with setup and run instructions.
+- Document any dependencies.
+
+## Evaluation Criteria
+
+- Functionality
+- Code Organization
+- Error Handling
+- Documentation
