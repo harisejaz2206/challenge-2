@@ -20,5 +20,3 @@ After starting the server, you can test the following endpoints in your browser:
 
 - `/`: This endpoint will provide information about the root of the application.
 - `/about`: Accessing this endpoint will display information about the application.
-
-Ensure to replace `server.js` with the appropriate filename if it differs in your repository.
